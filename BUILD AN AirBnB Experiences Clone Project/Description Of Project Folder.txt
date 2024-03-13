@@ -1,0 +1,1 @@
+It was hardcoded especially in the span of Card.js file.
